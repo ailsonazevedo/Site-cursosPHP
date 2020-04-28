@@ -1,2 +1,2 @@
-# Site-cursosPHP
- Site de distribuição de cursos
+# Site CursosPHP
+ Site de distribuição de cursos 
